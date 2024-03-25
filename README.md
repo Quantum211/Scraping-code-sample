@@ -2,7 +2,7 @@ There are 2 files attached in this repository:
 - AITools
 - AIToolsHelperFunctions
 
-AITools file is a frame of the script intent of which is to pull functions from an auxilary file AIToolsHelperFunctions.
+AITools file is a frame of the script intent of which is to pull functions from an auxilary file AIToolsHelperFunctions.</br>
 Breakdown of the script:
 1. Takes an array of links and begins iteration
 2. a. Visits each link and scrapes the visible strings</br>
