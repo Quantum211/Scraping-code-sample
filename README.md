@@ -8,6 +8,6 @@ Breakdown of the script:
 2. a. Visits each link and scrapes the visible strings</br>
    b. Extracts all the links from the navigation bar</br>
    c. Scrapes the visible strings from the extracted navlinks
-3. Creates a separate txt file for every link it visited and records extracted visible strings
+3. Creates a separate txt file for every link it visited with extracted visible strings and updates a logger of this action. If error is present for some reason, records the error and moves on
 
    
